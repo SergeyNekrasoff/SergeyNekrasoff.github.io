@@ -1,0 +1,34 @@
+<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Vector</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(6955 -712)">
+<rect x="-6955" y="712" width="16" height="16" fill="#E5E5E5"/>
+<g id="UI">
+<path d="M -7171 438L -4643 438L -4643 3620L -7171 3620L -7171 438Z" fill="#FFFFFF"/>
+<g id="Search">
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M -6971 690L -5751 690L -5751 750L -6971 750L -6971 690Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="search" clip-path="url(#clip-0)">
+<g id="Rectangle 3.2">
+<use xlink:href="#path0_fill" transform="translate(-6971 690)" fill="#FFFFFF"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-6971 690)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-6971 690)" fill="#27272B"/>
+</g>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(-6955 712)"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 1220 0L 1220 60L 0 60L 0 0Z"/>
+<path id="path1_stroke_2x" d="M 0 0L 0 -2L -2 -2L -2 0L 0 0ZM 1220 0L 1222 0L 1222 -2L 1220 -2L 1220 0ZM 1220 60L 1220 62L 1222 62L 1222 60L 1220 60ZM 0 60L -2 60L -2 62L 0 62L 0 60ZM 0 2L 1220 2L 1220 -2L 0 -2L 0 2ZM 1218 0L 1218 60L 1222 60L 1222 0L 1218 0ZM 1220 58L 0 58L 0 62L 1220 62L 1220 58ZM 2 60L 2 0L -2 0L -2 60L 2 60Z"/>
+<path id="path2_fill" d="M 11.4167 10.0417L 16 14.625L 14.625 16L 10.0833 11.4167L 10.0833 10.7083L 9.79167 10.4583C 8.68055 11.4028 7.3889 11.875 5.91667 11.875C 4.27777 11.875 2.88195 11.2986 1.72917 10.1458C 0.576383 8.99305 0 7.59723 0 5.95833C 0 4.31944 0.576383 2.91667 1.72917 1.75C 2.88195 0.583328 4.26388 0 5.875 0C 7.5139 0 8.90972 0.583328 10.0625 1.75C 11.2153 2.91667 11.7917 4.31944 11.7917 5.95833C 11.7917 7.43056 11.3194 8.72222 10.375 9.83333L 10.6667 10.0417L 11.4167 10.0417ZM 3 8.875C 3.80556 9.65278 4.77777 10.0417 5.91667 10.0417C 7.05556 10.0417 8.02777 9.64584 8.83333 8.85417C 9.63889 8.0625 10.0417 7.09723 10.0417 5.95833C 10.0417 4.81944 9.63889 3.84723 8.83333 3.04167C 8.02777 2.23611 7.05556 1.83333 5.91667 1.83333C 4.77777 1.83333 3.8125 2.23611 3.02083 3.04167C 2.22916 3.84723 1.83333 4.81944 1.83333 5.95833C 1.83333 7.09723 2.22222 8.06944 3 8.875Z"/>
+</defs>
+</svg>

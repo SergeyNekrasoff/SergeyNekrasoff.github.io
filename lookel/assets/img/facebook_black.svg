@@ -1,0 +1,26 @@
+<svg width="25" height="25" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Vector</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(6268 -2718)">
+<rect x="-6268" y="2718" width="25" height="25" fill="#E5E5E5"/>
+<g id="UI">
+<path d="M -7171 438L -4643 438L -4643 3620L -7171 3620L -7171 438Z" fill="#FFFFFF"/>
+<g id="Our Social">
+<g id="normal">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-6268 2718)" fill="#27272B"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(-6260.01 2721.84)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 12.5 25C 19.4036 25 25 19.4036 25 12.5C 25 5.59644 19.4036 0 12.5 0C 5.59644 0 0 5.59644 0 12.5C 0 19.4036 5.59644 25 12.5 25Z"/>
+<path id="path1_fill" d="M 8.07169 8.56L 5.65466 8.56L 5.65466 17.326L 1.99301 17.326L 1.99301 8.617L 0 8.617L 0 5.592L 1.93302 5.592C 1.93302 4.697 1.94115 3.903 1.93302 3.073C 1.93302 0.691 3.7918 0 5.46248 0L 8.27811 0L 8.27913 0L 8.27913 2.988C 8.0422 2.989 7.12094 2.988 6.6471 2.988C 6.5871 2.988 5.59161 2.934 5.59161 3.875C 5.59771 4.259 5.59161 5.583 5.59161 5.583L 8.29031 5.583L 8.07169 8.56Z"/>
+</defs>
+</svg>

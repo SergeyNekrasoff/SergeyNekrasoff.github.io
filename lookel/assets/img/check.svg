@@ -1,0 +1,46 @@
+<svg width="8" height="5" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Union</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1794 2395)">
+<rect x="1794" y="-2395" width="8" height="5" fill="#E5E5E5"/>
+<clipPath id="clip-0" clip-rule="evenodd">
+<path d="M 1740 -3315L 3660 -3315L 3660 -540L 1740 -540L 1740 -3315Z" fill="#FFFFFF"/>
+</clipPath>
+<g id="Shop Catalog" clip-path="url(#clip-0)">
+<path d="M 1740 -3315L 3660 -3315L 3660 -540L 1740 -540L 1740 -3315Z" fill="#FFFFFF"/>
+<g id="left side bar">
+<g id="Rectangle" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="matrix(6.29332e-17 1 -1 5.95774e-17 1974 -3055)" fill="#FBFBFD"/>
+<use xlink:href="#path0_fill" transform="matrix(6.29332e-17 1 -1 5.95774e-17 1974 -3055)" fill="#FFFFFF"/>
+</g>
+<g id="proce">
+<g id="Rectangle 2">
+<use xlink:href="#path1_fill" transform="translate(1784 -2406)" fill="#FFFFFF"/>
+</g>
+<g id="&#209;&#135;&#208;&#181;&#208;&#186;&#208;&#177;&#208;&#190;&#208;&#186;&#209;&#129;  &#208;&#176;&#208;&#186;&#209;&#130;&#208;&#184;&#208;&#178;&#208;&#189;&#209;&#139;&#208;&#185;">
+<g id="Rectangle 2.1">
+<use xlink:href="#path2_fill" transform="translate(1791 -2399)" fill="#4EB4FF"/>
+</g>
+<g id="Union">
+<use xlink:href="#path3_fill" transform="translate(1794 -2395)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="1784" y="-3055" width="191" height="1888" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="1" dy="0"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.956863 0 0 0 0 0.956863 0 0 0 0 0.964706 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 0 0L 1888 0L 1888 190L 0 190L 0 0Z"/>
+<path id="path1_fill" d="M 0 2C 0 0.89543 0.895431 0 2 0L 158 0C 159.105 0 160 0.895431 160 2L 160 23C 160 24.1046 159.105 25 158 25L 2 25C 0.895429 25 0 24.1046 0 23L 0 2Z"/>
+<path id="path2_fill" d="M 0 3C 0 1.34315 1.34315 0 3 0L 9 0C 10.6569 0 12 1.34315 12 3L 12 9C 12 10.6569 10.6569 12 9 12L 3 12C 1.34315 12 0 10.6569 0 9L 0 3Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 7.28541 0.496284C 7.26881 0.37519 7.20801 0.258003 7.10352 0.16523C 6.8567 -0.0535204 6.45716 -0.0552294 6.20777 0.161079L 3.05237 2.89985L 1.09815 1.26899C 0.841681 1.05512 0.439826 1.06049 0.190802 1.2812C -0.0537044 1.49799 -0.0645687 1.84614 0.166022 2.07465L 2.32874 4.21674C 2.52344 4.40961 2.81092 4.48408 3.07691 4.43598C 3.27613 4.43891 3.47657 4.3708 3.62537 4.23115L 7.11634 0.951607C 7.25135 0.824898 7.30738 0.657173 7.28541 0.496284Z"/>
+</defs>
+</svg>
