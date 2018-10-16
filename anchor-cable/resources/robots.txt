@@ -1,0 +1,5 @@
+Host: https://anchorcable.ru
+
+User-agent: *
+Disallow: /scripts
+Sitemap: https://anchorcable.ru/sitemap.xml
