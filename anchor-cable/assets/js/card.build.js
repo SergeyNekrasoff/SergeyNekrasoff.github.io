@@ -1904,17 +1904,18 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
 			return $finalPrice.html($result);
 		};
-
+		
 		function getDiscount(e) {
 			var $promoCode = $(e.currentTarget).val().toLowerCase();
 			var $qtyChanges = parseInt($('.js-input-qty').val()) || 1;
-			var $discount = 10;
+			var $discount = 20;
 			var $newPrice = 0;
 			var $result = 0;
 
-			if ($promoCode === 'apple_theme' || $promoCode === 'appleinside') {
+			if ($promoCode === 'palach') {
 				$(e.currentTarget).closest('.input-field').addClass('is-discounted');
 				$newPrice = Math.floor($price - $price * $discount / 100);
+				$newPrice = Math.round($newPrice / 100) * 100;
 			} else {
 				$(e.currentTarget).closest('.input-field').removeClass('is-discounted');
 				$newPrice = $price;
@@ -1924,6 +1925,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
 			return $('.js-price').html($result);
 		}
+
 
 		$(document).on('click', '.js-select-qty', calculateQty).on('change', '.js-input-promo', getDiscount);
 	})(jQuery);
